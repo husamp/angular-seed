@@ -1,10 +1,10 @@
 {
-  "name": "angular-seed",
+  "name": "customerkeep",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
-  "license": "MIT",
+  "description": "A customer management system",
+  "repository": "https://github.com/husamp/angular-seed",
+  "license": "GNU",
   "devDependencies": {
     "karma": "~0.10",
     "protractor": "^1.1.1",
